@@ -1,0 +1,23 @@
+Regresión MCO: Determinantes del Gasto Per Cápita	
+	(1)
+VARIABLES	gpc
+	
+ipc	0.423***
+	(0.002)
+mieperho	-56.767***
+	(1.322)
+2.area	-150.745***
+	(5.433)
+2.zona	-127.423***
+	(5.770)
+3.zona	-60.015***
+	(6.455)
+4.zona	75.260***
+	(7.678)
+Constant	672.697***
+	(7.044)
+	
+Observations	33,691
+R-squared	0.656
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

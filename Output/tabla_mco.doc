@@ -1,0 +1,32 @@
+{\rtf1\fs24
+\pard\qc
+Regresión MCO: Determinantes del Gasto Per Cápita\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3600
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3600
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3600
+\ql VARIABLES\cell\qc gpc\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3600
+\ql \cell\qc \cell\row
+\ql ipc\cell\qc 0.423***\cell\row
+\ql \cell\qc (0.002)\cell\row
+\ql mieperho\cell\qc -56.767***\cell\row
+\ql \cell\qc (1.322)\cell\row
+\ql 2.area\cell\qc -150.745***\cell\row
+\ql \cell\qc (5.433)\cell\row
+\ql 2.zona\cell\qc -127.423***\cell\row
+\ql \cell\qc (5.770)\cell\row
+\ql 3.zona\cell\qc -60.015***\cell\row
+\ql \cell\qc (6.455)\cell\row
+\ql 4.zona\cell\qc 75.260***\cell\row
+\ql \cell\qc (7.678)\cell\row
+\ql Constant\cell\qc 672.697***\cell\row
+\ql \cell\qc (7.044)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 33,691\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3600
+\ql R-squared\cell\qc 0.656\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
